@@ -1,6 +1,6 @@
 # Laughter Is Better Than Sex — Structural Overview
 
-[Live site](https://raphaelasanti.github.io/laughter-is-better-than-sex/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/endoftime/) • [License](./LICENSE)
+[Live site](https://raphaelasanti.github.io/laughter-is-better-than-sex/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/the-end-of-time/) • [License](./LICENSE)
 
 A concise interpretive page exploring why human bonding, joy, and shared humor form a deeper and more durable connection than physical intimacy alone. This project presents a short structural reading on emotional coherence, partnership, and the narrative patterns that elevate laughter above desire.
 
