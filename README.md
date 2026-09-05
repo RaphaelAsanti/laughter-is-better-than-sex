@@ -5,7 +5,7 @@
 A concise interpretive page exploring why human bonding, joy, and shared humor form a deeper and more durable connection than physical intimacy alone. This project presents a short structural reading on emotional coherence, partnership, and the narrative patterns that elevate laughter above desire.
 
 ---
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nd/4.0/)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)
 [![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/laughter-is-better-than-sex/)
 
 ---
